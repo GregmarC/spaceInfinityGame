@@ -1,7 +1,9 @@
 # spaceShooterGame
-created with html, css, and javascript
+My rendition of the classic game, Space Invaders.
 
-play game @ https://x1jinchu1x.github.io/spaceInfinityGame/
+Created with html, css, and javascript
+
+play game @ https://gregmarc.github.io/spaceInfinityGame/
 <br>
 <br>
 
